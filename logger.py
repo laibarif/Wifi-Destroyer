@@ -1,4 +1,5 @@
 import messages
+import re
 
 def show_connected_ips(devices_identities):
     print(messages.CONNECTED_DEVICES_MSG)
